@@ -1,3 +1,5 @@
+<p align="center"> <img width="100%" height="250" src="https://media4.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif?cid=6c09b9525qhsz586230pb07pq997oo707jlwz6fgcsngnnvk&ep=v1_gifs_search&rid=giphy.gif&ct=g" /> </p>
+
 ## Welcome👋 I'M GAGAN CHAUHAN
 
 <!--
